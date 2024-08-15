@@ -1,4 +1,5 @@
-# [The Pokemon Database](https://tpdb.vercel.app)
+# [PokéPokiDexDex - The Pokémon Database](https://poke-poki-dex-dex.vercel.app/)
 
 ![image](https://github.com/user-attachments/assets/01d9afec-28d2-4322-8bee-e3f258819731)
 
+made by [om auti](https://github.com/hOMie03/) // inspired by [mohitkumar's Pokepedia](https://github.com/98mohitkumar/pokepedia)
